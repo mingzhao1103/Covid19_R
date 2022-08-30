@@ -1,9 +1,8 @@
-## The Effect of Booster on Weekly New COVID-19 Cases at the County Level
-
+## Effectiveness of Vaccine Boosters against COVID-19: A County-Level Study in the U.S
 
 #### Project Goal 
 
-- To examine the relationship between booster rate and weekly new COVID-19 cases at the county level.
+- To examine the relationship between the booster rate and weekly new COVID-19 cases at the county level.
 
 #### Outline
 
