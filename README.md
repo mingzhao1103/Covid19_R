@@ -12,8 +12,8 @@
   - Univariate Statistics
   - Bivariate Statistics
 - Predictive Analysis
-  - Linear Regression
-  - Negative Binomial Regression
+  - **Linear Regression**
+  - **Negative Binomial Regression**
 - Conclusion  
 
 #### HTML Preview
