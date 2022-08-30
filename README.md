@@ -9,10 +9,10 @@
 - Introduction
 - Background
 - Descriptive Analysis
-  - Univariate
-  - Bivariate
+  - Univariate Statistics
+  - Bivariate Statistics
 - Predictive Analysis
-  - Linear regression
+  - Linear Regression
   - Negative Binomial Regression
 - Conclusion  
 
