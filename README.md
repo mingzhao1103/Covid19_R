@@ -2,11 +2,12 @@
 
 ### The Effects of Booster on Weekly New Cases at the County Level in the U.S
 
-Goal 
+
+#### Goal 
 
 - To examine the relationship between booster rate and weekly new COVID-19 cases at the county level.
 
-Outline
+#### Outline
 
 - Data Introduction
 - Data Exploration
