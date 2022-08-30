@@ -1,4 +1,4 @@
-# Covid19_R
+# Covid-19
 
 ### The Effects of Booster on Weekly New Cases at the County Level in the U.S
 
