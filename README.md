@@ -1,4 +1,4 @@
-## The Effect of Booster on Weekly New Covid-19 Cases at the County Level
+## The Effect of Booster on Weekly New COVID-19 Cases at the County Level
 
 
 #### Project Goal 
