@@ -1,4 +1,4 @@
-## The Effects of Booster on Weekly New Covid-19 Cases at the County Level in the U.S
+## The Effects of Booster on Weekly New Covid-19 Cases at the County Level
 
 
 #### Project Goal 
@@ -7,9 +7,9 @@
 
 #### Outline
 
-- Data Introduction
-- Data Exploration
-- Model Application
+- Datasets
+- EDA
+- Models
   1. Linear regression
   2. Negative Binomial Regression
 - Conclusion  
