@@ -1,4 +1,4 @@
-## Effectiveness of Vaccine Boosters against COVID-19: A County-Level Study in the U.S
+## Effectiveness of Vaccine Boosters against COVID-19: A County-Level Study in the U.S.
 
 #### Project Goal 
 
@@ -6,11 +6,14 @@
 
 #### Outline
 
-- Datasets
-- EDA
-- Models
-  1. Linear regression
-  2. Negative Binomial Regression
+- Introduction
+- Background
+- Descriptive Analysis
+  - Univariate
+  - Bivariate
+- Predictive Analysis
+  - Linear regression
+  - Negative Binomial Regression
 - Conclusion  
 
 #### HTML Preview
