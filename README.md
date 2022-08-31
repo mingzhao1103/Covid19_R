@@ -1,23 +1,29 @@
-## Effectiveness of Vaccine Boosters against COVID-19: A County-Level Study in the U.S.
+## Crime Reports in San Francisco: Larceny-Theft from 2003 to 2014
 
-#### Project Goal 
+#### Project Statement 
 
-- To examine the relationship between the booster rate and weekly new COVID-19 cases at the county level.
+- A study on incidents of larceny-theft using Exploratory Data Analysis and Time Series Analysis
 
 #### Outline
 
-- Introduction
-- Background
-- Descriptive Analysis
-  - Univariate Statistics
-  - Bivariate Statistics
-- Predictive Analysis
-  - **Linear Regression**
-  - **Negative Binomial Regression**
+- Data Preprocessing
+  - Crime data
+  - Unemployment data
+  - Weather data
+- Exploratory Data Analysis
+  - Crime and Time
+  - Crime and District
+  - Crime and Unemployment
+  - Crime and Temperature
+- Model Training and Forcasting
+  - Time Series Regression
+  - ARIMA
+  - SARIMA
+  - SARIMAX
 - Conclusion  
 
 #### HTML Preview
 
-https://htmlpreview.github.io/?https://github.com/mingzhao1103/Covid19_R/blob/main/Final_project_MingZhao.html
+https://htmlpreview.github.io/?https://github.com/mingzhao1103/Python_Crime/blob/main/crime.html
 
 
