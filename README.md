@@ -1,26 +1,20 @@
-## Crime Reports in San Francisco: Larceny-Theft from 2003 to 2014
+## Booster Effects on COVID-19: A County-Level Study in the U.S.
 
-#### Project Statement 
+#### Project Goal 
 
-- A study on incidents of larceny-theft using Exploratory Data Analysis and Time Series Analysis
+- This project examines the effects of booster rate on weekly new COVID-19 cases at the county level. Linear regression and Negative Binomial Regression are proposed to study the count data
 
 #### Outline
 
-- Data Preprocessing
-  - Crime data
-  - Unemployment data
-  - Weather data
-- Exploratory Data Analysis
-  - Crime and Time
-  - Crime and District
-  - Crime and Unemployment
-  - Crime and Temperature
-- Model Training and Forcasting
-  - Time Series Regression
-  - ARIMA
-  - SARIMA
-  - SARIMAX
-- Conclusion  
+- Introduction
+- Background
+- Descriptive Analysis
+  - Univariate Statistics
+  - Bivariate Statistics
+- Predictive Analysis
+  - **Linear Regression**
+  - **Negative Binomial Regression**
+- Sensitivity Analysis
 
 #### HTML Preview
 
